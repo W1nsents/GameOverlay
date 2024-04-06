@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverlayGameNet", "OverlayGameNetFolder\OverlayGameNet.csproj", "{9AA049F2-C213-4D41-A0B0-57DF2A5B5AA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AA049F2-C213-4D41-A0B0-57DF2A5B5AA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AA049F2-C213-4D41-A0B0-57DF2A5B5AA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AA049F2-C213-4D41-A0B0-57DF2A5B5AA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AA049F2-C213-4D41-A0B0-57DF2A5B5AA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A777D996-7F78-48FB-A0EE-80F03E87E34B}
+	EndGlobalSection
+EndGlobal
