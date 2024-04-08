@@ -11,3 +11,5 @@ Utils -> Configuration -> WINDOW_NAME
 [GameOveray.Net](https://www.google.com](https://github.com/michel-pi/GameOverlay.Net)
 
 [ezOverlay](https://www.google.com](https://github.com/michel-pi/GameOverlay.Net)](https://github.com/Massivetwat/ezOverLay.dll)
+
+[Обычная ссылка в строке](https://www.google.com)
